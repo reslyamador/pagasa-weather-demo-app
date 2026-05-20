@@ -38,6 +38,11 @@ Initial demo application with FastAPI backend, React frontend, PostgreSQL, Redis
 ### Changed
 -Sample for Activities test 2
 
+## [1.0.5] - 2026-05-20
+
+### Changed
+-Update release workflow for github
+
 
 
 
