@@ -1,0 +1,53 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on Keep a Changelog and this project can use Semantic Versioning for tags and releases.
+
+## [Unreleased]
+
+### Added
+- Initial changelog for DevOps training and release exercises.
+
+### Changed
+- None yet.
+
+### Fixed
+- None yet.
+
+### Removed
+- None yet.
+
+## [1.0.0] - 2026-05-20
+
+### Added
+Initial demo application with FastAPI backend, React frontend, PostgreSQL, Redis, Docker, automated tests, and CI workflow.
+
+## [1.0.2] - 2026-05-20
+
+### Changed
+-Fix Release changelogs.
+
+## [1.0.3] - 2026-05-20
+
+### Changed
+-Sample for Activities
+
+## [1.0.4] - 2026-05-20
+
+### Changed
+-Sample for Activities test 2
+
+## [1.0.5] - 2026-05-20
+
+### Changed
+-Update release workflow for github
+
+## [1.0.6] - 2026-05-20
+
+### Changed
+-Update release workflow for github
+-Github yml
+
+
+
